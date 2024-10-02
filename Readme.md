@@ -1,4 +1,4 @@
-MetaTrader 5 Trading Platform
+**MetaTrader 5 Trading Platform**
 
 The best application for trading Currencies, Stocks and Futures
 
